@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dustin-Stewart
+- 👀 I’m interested in computer vision and ecology
+- 🌱 I’m currently learning web developement, JS, Angular, and React
+- 💞️ I’m looking to collaborate on Java projects or math related problems
+- 📫 Dustin.nola@gmail.com
